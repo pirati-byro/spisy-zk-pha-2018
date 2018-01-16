@@ -3,7 +3,7 @@ title:      Žádost o informace podle zákona č. 106/1999 Sb.
 author:
    name:    Viktor Mahrik
    phone:   +420 602 767 298
-   ds:      4zjx7p
+   ds:      nnsevqx
    mail:    viktor.mahrik@pirati.cz
 our:
    name:    Zastupitelský klub Pirátů
@@ -25,7 +25,7 @@ Vážení,
 
 1. Seznam všech izolaterských prací, které byly provedeny za dobu životnosti Trojské lávky. Žádám, aby v tomto seznamu byly uvedeny konkrétní data dokončení zmíněných prací. 
 
-Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné (nikoliv poštou), do datové schránky 4zjx7p. 
+Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné (nikoliv poštou), do datové schránky nnsevqx. 
 
 S pozdravem
 
