@@ -36,5 +36,4 @@ signature:
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
 abbr:       adam
-attachments: Dopis občana shrnující pochybení v rámci ZZS HMP
 ...
