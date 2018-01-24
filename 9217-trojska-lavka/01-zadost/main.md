@@ -11,7 +11,7 @@ our:
 your:
    role:    povinný subjekt
    name:    
-      -     Technická správa komunikací hl. m. Prahy a.s.
+      -     Technická správa komunikací hl. m. Prahy, a.s.
    address:
       -     Řásnovka 770/8,
       -     110 00, Praha 1
