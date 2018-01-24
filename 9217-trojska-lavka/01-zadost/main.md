@@ -15,6 +15,7 @@ your:
    address:
       -     Řásnovka 770/8,
       -     110 00, Praha 1
+   ds:      mivq4t3
 sendby:     mail
 style:      letter
 ---
