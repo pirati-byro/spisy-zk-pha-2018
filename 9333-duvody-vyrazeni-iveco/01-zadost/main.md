@@ -22,7 +22,7 @@ style:      letter
 
 Vážení,
 
-žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, a dle ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
+žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, a dle ust. § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
 1. Důvod, na základě něhož vyřadila hodnotící komise ve výběrovém řízení na dodávku 300 dvanáctimetrových nízkopodlažních autobusů společnost Iveco Czech Republic, a. s. (IČO: 48171131). 
 
