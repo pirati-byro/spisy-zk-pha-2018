@@ -20,9 +20,9 @@ style:      letter
 
 Vážená paní primátorko,
 
-vznáším tímto podnět v souladu s ust. § 51 odst. 2 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, kterým Radu hlavního města Prahy žádám o vypracování pravidel pro jednotlivé **městské společnosti a příspěvkové organizace.** A to tak, aby tyto získaly povinnost informovat Radu hlavního města Prahy o veškerých výběrových řízeních v celkové hodnotě převyšující sumu 1 milion Kč. 
+vznáším tímto podnět v souladu s ust. § 51 odst. 2 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, kterým Radu hlavního města Prahy žádám o vypracování pravidel pro jednotlivé **městské společnosti a příspěvkové organizace.** A to tak, aby tyto získaly povinnost informovat Radu hlavního města Prahy o veškerých výběrových řízeních v celkové hodnotě převyšující sumu 1 milion Kč, které vypíšou. 
 
-Apeluji na Vás z toho důvodu, že v minulosti došlo mezi paní primátorkou Adrianou Krnáčovou a panem náměstkem Petrem Dolínkem k neshodě, jak dokládá např. článek idnes.cz starý jen několik dní ([Dolínek vypsal miliardový tendr bez vědomí rady. Neskutečné, míní Krnáčová](https://praha.idnes.cz/dolinek-krnacova-tendr-praha-radni-tsk-dh3-/praha-zpravy.aspx?c=A180126_378968_praha-zpravy_nuc), 26. ledna 2018). Domnívám se, že takové situace městu neprospívají a mohou mu působit škodu nejen mediální, ale především i v konečném důsledku finanční.
+Apeluji na Radu hlavního města Prahy z toho důvodu, že v minulosti došlo mezi paní primátorkou Adrianou Krnáčovou a panem náměstkem Petrem Dolínkem k neshodě, jak dokládá např. článek idnes.cz starý jen několik dní ([Dolínek vypsal miliardový tendr bez vědomí rady. Neskutečné, míní Krnáčová](https://praha.idnes.cz/dolinek-krnacova-tendr-praha-radni-tsk-dh3-/praha-zpravy.aspx?c=A180126_378968_praha-zpravy_nuc), 26. ledna 2018). Domnívám se, že takové situace městu neprospívají a mohou mu působit škodu nejen mediální, ale především i v konečném důsledku finanční.
 
 S pozdravem
 
