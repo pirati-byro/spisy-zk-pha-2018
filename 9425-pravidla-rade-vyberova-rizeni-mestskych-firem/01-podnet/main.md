@@ -18,7 +18,7 @@ your:
 style:      letter
 ---
 
-Vážená paní primátorko,
+Vážení členové Rady hlavního města Prahy,
 
 vznáším tímto podnět v souladu s ust. § 51 odst. 2 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, kterým Radu hlavního města Prahy žádám o vypracování pravidel pro jednotlivé **městské společnosti a příspěvkové organizace.** A to tak, aby tyto získaly povinnost informovat Radu hlavního města Prahy o veškerých výběrových řízeních v celkové hodnotě převyšující sumu 1 milion Kč, které vypíšou. 
 
