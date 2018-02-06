@@ -20,9 +20,11 @@ style:      letter
 
 Vážení členové Rady hlavního města Prahy,
 
-vznáším tímto podnět v souladu s ust. § 51 odst. 2 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, kterým Radu hlavního města Prahy žádám o vypracování pravidel pro jednotlivé **městské společnosti a příspěvkové organizace.** A to tak, aby tyto získaly povinnost informovat Radu hlavního města Prahy o veškerých výběrových řízeních v celkové hodnotě převyšující sumu 1 milion Kč, které vypíšou. 
+předkládám vám podnět, kterým navrhuji vypracování pravidel pro jednotlivé **městské společnosti a příspěvkové organizace** o povinnosti informovat Radu hlavního města Prahy o veškerých veřejných zakázkách, které vypíší, a jejichž celková hodnota převyšuje určitou sumu, například 20 milionů Kč.
 
-Apeluji na Radu hlavního města Prahy z toho důvodu, že v minulosti došlo mezi paní primátorkou Adrianou Krnáčovou a panem náměstkem Petrem Dolínkem k neshodě, jak dokládá např. článek idnes.cz starý jen několik dní ([Dolínek vypsal miliardový tendr bez vědomí rady. Neskutečné, míní Krnáčová](https://praha.idnes.cz/dolinek-krnacova-tendr-praha-radni-tsk-dh3-/praha-zpravy.aspx?c=A180126_378968_praha-zpravy_nuc), 26. ledna 2018). Domnívám se, že takové situace městu neprospívají a mohou mu působit škodu nejen mediální, ale především i v konečném důsledku finanční.
+Činím tak z toho důvodu, že dochází k situacím, kdy jsou o významných zakázkách různých firem/příspěvkových organizací informováni pouze gesční radní, nikoliv však Rada jako celek. Jedním z příkladů je i nedávná kauza se zakázkou v Technické správě komunikací ([Dolínek vypsal miliardový tendr bez vědomí rady. Neskutečné, míní Krnáčová](https://praha.idnes.cz/dolinek-krnacova-tendr-praha-radni-tsk-dh3-/praha-zpravy.aspx?c=A180126_378968_praha-zpravy_nuc), 26. ledna 2018). Domnívám se, že takové situace městu neprospívají a mohou mu působit škodu nejen mediální, ale především i v konečném důsledku finanční.
+
+Tento podnět podávám v souladu s ust. § 51 odst. 2 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze. Žádám o zaslání odpovědi do třiceti dnů do datové schránky nebo e-mailem.
 
 S pozdravem
 
