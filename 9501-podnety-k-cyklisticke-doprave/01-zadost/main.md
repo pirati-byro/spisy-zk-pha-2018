@@ -1,5 +1,5 @@
 ---
-title:      Podněty k rozvoji cyklistické dorpavy
+title:      Podněty k rozvoji cyklistické dopravy
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
