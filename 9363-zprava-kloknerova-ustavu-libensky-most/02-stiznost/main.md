@@ -24,7 +24,9 @@ Vážení,
 
 dle 1. února 2018 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“) a ust. § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hl. m. Praze, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – požádal o poskytnutí následujících informací:
 
-1. Zprávu nebo dokumentaci, kterou/které pro Technickou správu komunikací hl. m. Prahy, a.s. vyhotovil Kloknerův ústav a která se týká technického stavu Libeňského soumostí a která byla v nedávné době prezentována hlavnímu městu Praze.
+1. Zprávu nebo dokumentaci, kterou/které pro Technickou správu komunikací hl. m. Prahy, a.s. vyhotovil Kloknerův ústav a která se týká technického stavu Libeňského soumostí a která byla v nedávné době prezentována hlavnímu městu Praze. 
+
+Definici zprávy nebo dokumentace jsem vybral proto, aby mi byl zaslán dokument úplný, nikoliv pouze jako jeho část, která již byla zveřejněna.
 
 Konstatuji, že jsem v patnáctidenní lhůtě, kterou stanoví zákon č. 106/1999 Sb., o svobodném přístupu k informacím, neobdržel od povinného subjektu na svojí žádost odpověď. Proto podávám v souladu s §16a odst. 1 písm. b) InfZ stížnost. Navrhuji, aby nadřízený správní orgán, kterým je dle ust. § 20 odst. 5 InfZ předseda představenstva TSK a.s., postupem v souladu s § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám. 
 
