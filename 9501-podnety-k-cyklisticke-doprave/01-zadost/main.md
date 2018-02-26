@@ -17,15 +17,15 @@ your:
       -     Mariánské náměstí 2
       -     110 00, Praha 1
    note:
-      -     k rukám ředitele Odboru ochrany prostředí
-      -     RNDr. Štěpánu Kyjovskému
+      -     k rukám předsedy komise Rady hl. m. Prahy pro cyklistickou dopravu Stanislava Kozubka
+      -     a vedoucího oddělení rozvoje dopravy Mgr. Jaroslava Macha
 sendby:     mail
 style:      letter
 ---
 
-Vážený pane řediteli,
+Vážení,
 
-níže Vám zasílám jako zastupitel hl. m. Prahy seznam podnětů, jejichž realizace by dokázala značným způsobem napomoci rozvoji cyklistické dopravy v Praze. Jedná se o drobná opatření, která by mohla zlepšit především plynulost v cyklistické dopravě, odstranit bariéry a riziková místa. 
+níže Vám zasílám jako zastupitel hl. m. Prahy seznam podnětů, jejichž realizace by dokázala částečně napomoci rozvoji cyklistické dopravy v Praze. Jedná se o drobná opatření, která by mohla zlepšit především plynulost v cyklistické dopravě, odstranit bariéry a riziková místa. 
 
 **1. Zprovoznit podchod pod Národní ulici, který spojuje budovu Akademie věd České republiky a náměstí Václava Havla**
 
@@ -49,7 +49,7 @@ Nejvíce využívaným je hlavní okruh, který vede okolo rybníků parku. Tent
 
 Náplavku by proto bylo vhodné otevřít pro cyklisty a chodce a z jižní strany od Mostu Legií dobudovat jednoduchou rampu, která by umožnila napojení z náplavky na úroveň Janáčkova nábřeží. Samotná náplavka končí před plavebním kanálem u Dětského ostrova.
 
-Předem děkuji za zhodnocení těchto návrhů. Žádám tímto rovněž o zaslání odpovědi na možnost realizace výše uvedených podnětů ve lhůtě 30 dnů.
+Předem děkuji za zhodnocení těchto návrhů. Žádám tímto rovněž o zaslání odpovědi do 30 dnů ohledně možnosti realizace výše uvedených podnětů.
 
 S pozdravem
 
