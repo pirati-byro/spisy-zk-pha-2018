@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#9616
+   sign:    ZK Pha \#9904
 your:
    role:    Povinný subjekt
    name:    
