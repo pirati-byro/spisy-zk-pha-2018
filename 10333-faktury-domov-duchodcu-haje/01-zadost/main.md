@@ -30,10 +30,9 @@ Seznam všech smluv, které Vaše příspěvková organizace uzavřela mezi 1. l
 2. nákup a údržba nábytku,
 3. úklidových prací a technologie úklidových prací
 4. údržby zeleně,
-5. opravy kanalizací a vodohospodářské soustavy,
-6. stravování a technologie stravovacího provozu.
+5. stravování a technologie stravovacího provozu.
 
-Ze seznamu je možné vynechat smlouvy, jež jsou k dnešnímu dny zaneseny v registru smluv. Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné (nejlépe v podobě excelové tabulky). Informace poskytněte prosím přímo, nikoliv jen formou odkazu na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky xwfwgha.
+Ze seznamu je možné vynechat smlouvy, jež jsou k dnešnímu dny zaneseny v registru smluv. Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o doručování do datové schránky xwfwgha nebo na e-mail adam.zabransky@praha.eu.
 
 S pozdravem
 
