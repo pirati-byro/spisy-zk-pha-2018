@@ -32,6 +32,8 @@ Seznam všech smluv, které Vaše příspěvková organizace uzavřela mezi 1. l
 4. údržby zeleně,
 5. stravování a technologie stravovacího provozu.
 
+V tomto seznamu uveďte minimálně hodnoty – název smlouvy, dodavatele, datum uzavření smlouvy, dobu trvání smlouvy, cenu smlouvy a počet dodavatelů, kteří se o zakázku ucházeli.
+
 Ze seznamu je možné vynechat smlouvy, jež jsou k dnešnímu dny zaneseny v registru smluv. Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o doručování do datové schránky xwfwgha nebo na e-mail adam.zabransky@praha.eu.
 
 S pozdravem
