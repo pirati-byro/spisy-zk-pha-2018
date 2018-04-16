@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    Zk Pha #10473
+   sign:    "Zk Pha #10473"
 your:
    role:    
    name:    Hlavní město Praha
