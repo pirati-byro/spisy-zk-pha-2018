@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    
+   sign:    "Zk Pha #10347"
 your:
    role:    Povinný subjekt
    name:    Domov pro osoby se zdravotním postižením Sulická
