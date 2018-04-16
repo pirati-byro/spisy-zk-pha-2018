@@ -15,12 +15,16 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00
+   name:
+      -     k rukám
+      -     JUDr. Richarda Maříka,
+      -     ředitele odboru volených orgánů
    ds:      
 style:      letter
 reminder:   true
 ---
 
-Vážená paní Mezková,
+Vážený pane řediteli,
 
 V únoru 2017 přijalo Zastupitelstvo hlavního města Prahy protikorupční strategii. Tento dokument, který se má týkat časového období let 2017–2019, byl postupně, byť velmi pomalu, uváděn Magistrátem hlavního města Prahy v život.
 
