@@ -15,7 +15,7 @@ your:
    address:
       -     K Milíčovu 734/1
       -      Praha 4
-   ds:      b4eb2my
+   ds:      
 style:      letter
 reminder:   true
 ---
