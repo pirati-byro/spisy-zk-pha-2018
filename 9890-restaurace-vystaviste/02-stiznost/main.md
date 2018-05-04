@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    Zk Pha #9890
+   sign:    Zk Pha \#9890
 your:
    role:    Povinný subjekt
    name:    Výstaviště Praha, a.s.,
