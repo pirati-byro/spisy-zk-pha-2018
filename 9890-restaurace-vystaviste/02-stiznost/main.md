@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-dne 9. dubna 2018 jsem jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s ust. § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, vás požádal e-mailem o poskytnutí následujících informací: 
+dne 9. dubna 2018 jsem jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“) a v souladu s ust. § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, vás požádal e-mailem, který jsem Vám v souladu s § 14 odst. 3 InfZ poslal na adresu info@prahaexpo.cz, uvádíte na webové stránce https://www.vystavistepraha.eu/kontakt/ o poskytnutí následujících informací: 
 
 1. Smluv, které evidujete na provozování/nájem restauračních a dalších stravovacích zařízení (restaurace, kavárny, hospody atd.) v areálu Výstaviště, kterou má vaše společnost ve správě. Jde mi např. o podniky Bohemia, Pražan, Rychta
 2. Smluv, které jste uzavřeli s pořadateli/em akce Praguecon, která se má v areálu Výstaviště konat v září 2018
