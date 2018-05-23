@@ -29,7 +29,11 @@ v nedávné době jsme obdrželi dopis s připomínkami, které zaslal jednatel 
 
 S názorem pana Kvasničky se náš zastupitelský klub ztotožňuje. Jsme toho názoru, že v dnešní době, kdy stále více jízd prostřednictvím vozidel taxi nebo sdílené spolujízdy probíhá za pomoci mobilní aplikace, je zkouška z pražského místopisu ve své podstatě nadbytečná. Navigaci a orientaci zajištují dnes mobilní aplikace, které jsou dostupné v každém chytrém telefonu. Souhlasíme s tím, že by namísto zkoušky z místopisu měl uchazeč o pozici řidiče taxislužby prokázat, že takovou aplikaci umí úspěšně ovládat. Nesouhlasíme s argumentem, že znalosti místopisu jsou nezbytné pro alternativní a objízdné trasy. Mobilní aplikace, které slouží k přivolání taxi (nebo vozidla sdílené spolujízdy) trasu plánují předem, a to i s ohledem na možné změny v dopravě (objížďky, dopravní nehody apod). Rovněž i některé komerčně dostupné navigace pro mobilní telefony a další zařízení se dokáží přizpůsobit stavu dopravy. 
 
-Při současné míře dopravy v hlavním městě, rozlehlosti Prahy i měnící se intenzitě dopravy se domníváme, že je práce s mobilní aplikací přesnější a v konečném důsledku pro zákazníka lepší, než jízda taxikáře po paměti – v hlavním městě se nachází v současné době přes 7300 ulic a není v lidských silách je přesně znát, nebo i přesně znát alespoň jejich významnější část. 
+Konstatujeme, že trvání na skládání zkoušky z pražského místopisu by mohlo nevhodným způsobem omezit nové hráče na trhu taxislužeb, resp. sdílených spolujízd. Změna pravidel by totiž mohla poškodit právě ty řidiče, kteří pracují výhradně s mobilními aplikacemi. Domníváme se, že by hlavní město Praha nemělo v tomto případě narušovat volnou soutěž.
+
+\newpages
+
+Při současné míře dopravy v hlavním městě, rozlehlosti Prahy i měnící se intenzitě dopravy se domníváme, že je práce s mobilní aplikací přesnější a v konečném důsledku pro zákazníka lepší, než jízda taxikáře po paměti – v hlavním městě se nachází v současné době přes 7300 ulic – není v lidských silách je přesně znát, nebo i přesně znát alespoň jejich významnější část. 
 
 Časové vymezení lhůt pro pozvání uchazeče k opravným zkouškám řidiče taxislužby vnímáme rovněž jako nešťastné. Časový odstup tří až šesti měsíců je skutečně zbytečně dlouhý; současné znění v návrhu by mohlo být pro uchazeče o oprávnění řidiče taxislužby vstřícnější. Rovněž vnímáme jako vhodné, aby byl stanoven i strop, kdy nejpozději bude uchazeč opětovně ke složení zkoušek přizván. 
 
