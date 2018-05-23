@@ -30,7 +30,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, �
 
 3. Z jakého důvodu nebylo možné provést výpověď ve lhůtě tří měsíců v souladu s ust. čl. III. odst. 3 Smlouvy o nájmu části pozemku, která byla uzavřena mezi Městskou částí Praha 1 a Ladislavem Kůlou, Zaorálkova 563, Roztoky u Prahy dne 17. prosince 2003? 
 
-Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu viktor.mahrik@pirati.cz. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu viktor.mahrik@pirati.cz. Předem děkuji za Vaši vstřícnost. Požadované informace jsou založeny na písemnosti povinného subjektu ev. č. UMCP1 203758/2017 OSN 472/2017.
 
 S pozdravem
 
