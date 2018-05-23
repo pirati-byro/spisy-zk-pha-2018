@@ -31,7 +31,7 @@ S názorem pana Kvasničky se náš zastupitelský klub ztotožňuje. Jsme toho 
 
 Konstatujeme, že trvání na skládání zkoušky z pražského místopisu by mohlo nevhodným způsobem omezit nové hráče na trhu taxislužeb, resp. sdílených spolujízd. Změna pravidel by totiž mohla poškodit právě ty řidiče, kteří pracují výhradně s mobilními aplikacemi. Domníváme se, že by hlavní město Praha nemělo v tomto případě narušovat volnou soutěž.
 
-\newpages
+\newpage
 
 Při současné míře dopravy v hlavním městě, rozlehlosti Prahy i měnící se intenzitě dopravy se domníváme, že je práce s mobilní aplikací přesnější a v konečném důsledku pro zákazníka lepší, než jízda taxikáře po paměti – v hlavním městě se nachází v současné době přes 7300 ulic – není v lidských silách je přesně znát, nebo i přesně znát alespoň jejich významnější část. 
 
