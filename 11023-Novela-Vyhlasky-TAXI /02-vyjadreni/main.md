@@ -1,5 +1,5 @@
 ---
-title:      Vyjádření zastupitelského klubu Pirátů k novele obecně závazné vyhlášky, kterou se mění vyhláška č. 23/1998 Sb. hl. m. Prahy, o ověřování znalostí řidičů taxislužby na území hlavního města Prahy, ve znění pozdějších předpisů 
+title:      Vyjádření zastupitelského klubu Pirátů k novele obecně závazné vyhlášky, kterou se mění vyhláška č. 23/1998 Sb. hl. m. Prahy, o ověřování znalostí řidičů taxislužby na území hlavního města Prahy, ve znění pozdějších předpisů (dále jen „Vyhláška“)
 author:
    name:    Ondřej Kallasch
    phone:   +420 720 474 822
@@ -25,7 +25,7 @@ reminder:   true
 
 Vážená paní ředitelko,
 
-v nedávné době jsme obdrželi dopis s připomínkami, které zaslal jednatel společnosti AAA radiotaxi s.r.o., pan Jiří Kvasnička. Týkají se především problematiky zkoušek ze znalostí místopisu hlavního města (čl. 5. odst. 5 novely obecně závazné vyhlášky (dále jen „Vyhlášky“) a dále časovým lhůtám pro pozvání uchazeče k opravným zkouškám řidiče taxislužby (čl. 6. Vyhlášky). 
+v nedávné době jsme obdrželi dopis s připomínkami, které zaslal jednatel společnosti AAA radiotaxi s.r.o., pan Jiří Kvasnička. Týkají se především problematiky zkoušek ze znalostí místopisu hlavního města (čl. 5. odst. 5 Vyhlášky) a dále časovým lhůtám pro pozvání uchazeče k opravným zkouškám řidiče taxislužby (čl. 6. Vyhlášky). 
 
 S názorem pana Kvasničky se náš zastupitelský klub ztotožňuje. Jsme toho názoru, že v dnešní době, kdy stále více jízd prostřednictvím vozidel taxi nebo sdílené spolujízdy probíhá za pomoci mobilní aplikace, je zkouška z pražského místopisu ve své podstatě nadbytečná. Navigaci a orientaci zajištují dnes mobilní aplikace, které jsou dostupné v každém chytrém telefonu. Souhlasíme s tím, že by namísto zkoušky z místopisu měl uchazeč o pozici řidiče taxislužby prokázat, že takovou aplikaci umí úspěšně ovládat. Nesouhlasíme s argumentem, že znalosti místopisu jsou nezbytné pro alternativní a objízdné trasy. Mobilní aplikace, které slouží k přivolání taxi (nebo vozidla sdílené spolujízdy) trasu plánují předem, a to i s ohledem na možné změny v dopravě (objížďky, dopravní nehody apod). Rovněž i některé komerčně dostupné navigace pro mobilní telefony a další zařízení se dokáží přizpůsobit stavu dopravy. 
 
