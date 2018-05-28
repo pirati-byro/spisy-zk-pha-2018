@@ -35,7 +35,7 @@ Trvání na skládání zkoušky z pražského místopisu by podle nás mohlo ne
 
 Při současné míře dopravy v hlavním městě, rozlehlosti Prahy i měnící se intenzitě dopravy se domníváme, že je práce s mobilní aplikací přesnější a v konečném důsledku pro zákazníka lepší, než jízda taxikáře po paměti. V hlavním městě se nachází v současné době přes 7300 ulic a není v lidských silách je přesně znát, nebo i přesně znát alespoň jejich významnější část. 
 
-V souvislosti s tím Vás za zastupitelský klub Pirátů žádám, aby byly tyto připomínky do novely zapracovány. 
+V souvislosti s tím Vás za zastupitelský klub Pirátů žádám, aby byly tyto připomínky, které se týkají zkoušky z místopisu, do novely zapracovány. 
 
 
 S pozdravem
