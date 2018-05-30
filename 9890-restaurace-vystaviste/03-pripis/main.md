@@ -15,6 +15,9 @@ your:
    address:
       -     Výstaviště 67, Bubeneč
       -     170 00 Praha 7
+   note:
+      -     k rukám předsedy představenstva
+      -     Ing. Pavla Klašky 
    ds:      
 style:      letter
 reminder:   true
