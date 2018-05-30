@@ -30,6 +30,8 @@ dne 9. dubna 2018 jsem jako fyzická osoba v souladu se zákonem č. 106/1999 Sb
 
 Vzhledem k tomu, že jsem od Vás neobdržel v souladu s § 14 odst. 5 písm. d) InfZ v zákonné lhůtě 15 dnů odpověď, podal jsem dne 10. května 2018 v souladu s § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. O stížnosti mělo být rozhodnuto v souladu s ust. § 16a odst. 8 InfZ ve lhůtě patnácti dnů, nicméně od povinného subjektu, resp. ředitele/představenstva společnosti, které plní roli nadřízeného správního orgánu dle § 20 odst. 5 InfZ, jsem rovněž odpověď neobdržel. Tímto oznamuji, že jsem vyčerpal veškeré opravné prostředky, které předcházejí podání správní žaloby.
 
+\newpage
+
 Chtěl bych Vás tímto naposledy požádat o zaslání požadovaných informací, a to ve lhůtě 14 dnů, jinak budu nucen se domáhat svých práv soudní cestou. Informace prosím poskytněte v elektronické podobě, je-li to možné. Žádám o doručování do datové schránky xwfwgha nebo na e-mail adam.zabransky@praha.eu.
 
 S pozdravem
