@@ -31,7 +31,7 @@ Podle registru na webové stránce https://www.hlidacstatu.cz/Subjekt/25649329 j
 
 Konstatuji, že jsem v patnáctidenní lhůtě, která plynula od 22. května 2018 do 6. června 2018 neobdržel od povinného subjektu odpověď. Proto v souladu s ust. § 16a odst. 1 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), podávám stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) InfZ unsesením věc převzal a informaci poskytl sám.
 
-Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o doručování do datové schránky xwfwgha nebo na e-mail adam.zabransky@praha.eu.
+Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o doručování na e-mail viktor.mahrik@praha.eu.
 
 S pozdravem
 
