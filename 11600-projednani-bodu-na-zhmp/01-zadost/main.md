@@ -33,25 +33,16 @@ signature:
   - bytem Únětická 739/13, 161 00 Praha
   - zastupitel hl. m. Prahy
 abbr:       ViM
-...
-
----
 signature:
   - Adam Zábranský
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
 abbr:       adam
-...
-
----
 signature:
   - Ondřej Kallasch
   - nar. 12. 3. 1991
   - bytem Pod Markétou 82, Praha 22
 abbr:       ondra
-...
-
----
 signature:
   - Ivan Mikoláš
   - nar. 8. 4. 1965
