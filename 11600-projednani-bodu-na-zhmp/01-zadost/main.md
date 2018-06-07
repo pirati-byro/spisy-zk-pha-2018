@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-tímto předkládám zastupitelstvu hlavního města Prahy v souladu s § 51 odst. 2 písm. a) zákona č. 131/2000 Sb., o hlavním městě Praze, bod k projednání. Jedná se o projednání záměru Městské části Praha 6 o prodeji věcí z vlastnictví hlavního města Prahy, svěřených do správy městské části Praha 6, a to pozemků parc. č. 1320/4 o výměře 117 m2, jehož součástí je stavba bez č. pop./č. evid. a parc. č. 1320/6 o výměře 323 m2, včetně stavby neevidované v katastru nemovitostí, vše v k. ú. Bubeneč, společnosti Nebeský klid, a.s., IČO 25178661 se sídlem Na Florenci 2116/15, 110 00, Praha 1, za cenu obvyklou, stanovenou znaleckým posudkem č. 1622 - 35/17 ze dne 26. 10. 2017 ve výši 10 905 700 Kč v Zastupitelstvu hlavního města Prahy. 
+tímto předkládám zastupitelstvu hlavního města Prahy v souladu s § 51 odst. 2 písm. a) zákona č. 131/2000 Sb., o hlavním městě Praze, bod k projednání. Jedná se o projednání záměru městské části Praha 6 o prodeji věcí z vlastnictví hlavního města Prahy, svěřených do správy městské části Praha 6, a to pozemků parc. č. 1320/4 o výměře 117 m2, jehož součástí je stavba bez č. pop./č. evid. a parc. č. 1320/6 o výměře 323 m2, včetně stavby neevidované v katastru nemovitostí, vše v k. ú. Bubeneč, společnosti Nebeský klid, a.s., IČO 25178661 se sídlem Na Florenci 2116/15, 110 00, Praha 1, za cenu obvyklou, stanovenou znaleckým posudkem č. 1622 - 35/17 ze dne 26. 10. 2017 ve výši 10 905 700 Kč v Zastupitelstvu hlavního města Prahy. 
 
 Podepsáni členové Zastupitelského klubu Pirátů
 
