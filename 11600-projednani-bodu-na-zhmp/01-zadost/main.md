@@ -31,7 +31,6 @@ signature:
   - Viktor Mahrik
   - nar. 21. dubna 1982
   - bytem Únětická 739/13, 161 00 Praha
-  - zastupitel hl. m. Prahy
   - Adam Zábranský
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
@@ -41,5 +40,4 @@ signature:
   - Ivan Mikoláš
   - nar. 8. 4. 1965
   - bytem Pod Rapidem 450/6, Praha 10 Strašnice
-abbr:       Ivan
 ...
