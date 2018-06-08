@@ -21,10 +21,10 @@ style:      letter
 
 Vážení,
 
-žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
+žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
 1. Texty smluv o výkonu funkce s členy představenstva Pražská plynárenská a.s. 
-2. Odměnu každého jednoho člena představenstva společnosti Pražská plynárenská a.s. za posledních pět let. Údaje poskytněte pro každý rok zvlášť, tedy u každého jednoho člena představenstva Vaší společnosti celkem pět sum. 
+2. Odměnu každého jednoho člena představenstva společnosti Pražská plynárenská a.s. za roky 2013–2017. Údaje poskytněte pro každý rok zvlášť, tedy u každého jednoho člena představenstva Vaší společnosti celkem pět sum. 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné (nikoliv poštou), a to na e-mailovou adresu adam.zabransky@pirati.cz. 
 
