@@ -56,8 +56,10 @@ Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
 
 ---
-podpis: 
+signature: 
   - Adam Zábranský
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
+  - zastupitel hl. m. Prahy
+abbr:       adam
 ...
