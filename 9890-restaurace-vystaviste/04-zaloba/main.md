@@ -50,7 +50,7 @@ K důkazu:
 
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Soud nařizuje žalované, aby rozhodla o žádosti o informace žalobce ze dne 9. 4. 2015 do 15 dnů od právní moci tohoto rozhodnutí
+1. Soud nařizuje žalované, aby rozhodla o stížnosti na vyřízení žádosti o informace žalobce ze dne 10. 5. 2015 do 15 dnů od právní moci tohoto rozhodnutí
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
 
