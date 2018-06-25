@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-dne 8. června jsem dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás jako povinný subjekt požádal o poskytnutí následujících informací:
+dne 8. června 2018 jsem dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás jako povinný subjekt požádal o poskytnutí následujících informací:
 
 1. Texty smluv o výkonu funkce s členy představenstva Pražská plynárenská a.s. 
 2. Odměnu každého jednoho člena představenstva společnosti Pražská plynárenská a.s. za roky 2013–2017. Údaje poskytněte pro každý rok zvlášť, tedy u každého jednoho člena představenstva Vaší společnosti celkem pět sum. 
