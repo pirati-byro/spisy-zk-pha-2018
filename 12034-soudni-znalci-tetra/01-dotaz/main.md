@@ -25,7 +25,7 @@ style:      letter
 
 Vážený pane řediteli,
 
-v souladu s § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze (dále jen PrahZ), vznáším jako zastupitel hl. m. Prahy žádám o poskytnutí následující informace:
+v souladu s § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze (dále jen PrahZ), žádám jako fyzická osoba, zastupitel hl. m. Prahy, o poskytnutí následující informace:
 
 1. Na základě jakého postupu a jakým způsobem byli při přípravě zakázky s názvem Zvýšení spolehlivosti a zabezpečení Městského rádiového systému TETRA hl. m. Prahy – 2. etapa vybráni jednotliví soudní znalci.
 
