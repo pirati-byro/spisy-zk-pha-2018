@@ -43,5 +43,5 @@ signature:
   - zastupitel hl. m. Prahy za klub Pirátů
   - nar. 8. 4. 1965
   - bytem Pod Rapidem 450/6, Praha 10 Strašnice
-abbr:       ondra
+abbr:       ivan
 ...
