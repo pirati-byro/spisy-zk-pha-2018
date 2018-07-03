@@ -3,7 +3,7 @@ title:      Podnět – výstavba provozovny rychlého občerstvení a benzinov�
 author:
    name:    Viktor Mahrik
    phone:   +420 721 006 868
-   ds:      
+   ds:      4yjx7p
    mail:    viktor.mahrik@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
