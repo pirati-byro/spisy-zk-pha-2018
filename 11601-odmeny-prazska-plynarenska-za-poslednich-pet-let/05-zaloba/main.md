@@ -43,19 +43,19 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 
 ### Žalobní body
 
-1. Žalobce se domnívá, že žalovaná strana je povinným subjektem v souladu s InfZ, neboť na ní zcela nepochybně dopadá nález Ústavního soudu sp. zn. I. ÚS 1262/17 ze dne 27. března 2018. Žalovaná strana je vlastněná společností Pražská plynárenská Holding a.s., jejíž mateřskou společností je hlavní město Praha, jak dokládá ve své výroční zprávě za rok 2017, kterou žalovaná zveřejnila. Ve světle judikatury (rozsudek NSS ze dne 29. 5. 2008, č. j. 8 As 57/2006-67 a ze dne 19. 10. 2011, č. j. As 114/2011-121) je rovněž nezbytné pohlížet na žalovanou jako na povinný subjekt, a to i přes to, že společnost není vlastněná hlavním městem Prahou přímo, nýbrž je součástí holdingové struktury (společnosti Pražská plynárenská Holding a.s.)
+Žalobce se domnívá, že žalovaná strana je povinným subjektem v souladu s InfZ, neboť na ní zcela nepochybně dopadá nález Ústavního soudu sp. zn. I. ÚS 1262/17 ze dne 27. března 2018. Žalovaná strana je vlastněná společností Pražská plynárenská Holding a.s., jejíž mateřskou společností je hlavní město Praha, jak dokládá ve své výroční zprávě za rok 2017, kterou žalovaná zveřejnila. Ve světle judikatury (rozsudek NSS ze dne 29. 5. 2008, č. j. 8 As 57/2006-67 a ze dne 19. 10. 2011, č. j. As 114/2011-121) je rovněž nezbytné pohlížet na žalovanou jako na povinný subjekt, a to i přes to, že společnost není vlastněná hlavním městem Prahou přímo, nýbrž je součástí holdingové struktury (společnosti Pražská plynárenská Holding a.s.) 
 
-<!-- dopsat -->
+Z judikatury Nejvyššího správního soudu a Ústavního soudu totiž jednoznačně vyplývá, že Pražská plynárenská Holding, a.s., je veřejnou institucí ve smyslu InfZ. Tuto vlastnost pak přirozeně musí mít všechny obchodní společnosti v holdingu, který veřejná instituce řídí, jinak by pojem veřejná instituce nemusel vůbec existovat. K utajení informací před veřejností by totiž stačilo, aby obchodní společnosti ovládané veřejnoprávními subjekty realizovaly veškerou svou činnost skrze své dceřinné a vnukovské společnosti, které by povinnými subjekty dle InfZ nebyly. Pokud by takový případ byl správným výkladem zákona, zcela nepochybně by se odchyloval od úmyslu zákonodárce. 
 
-požadovanými informacemi disponuje a že měly být dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, poskytnuty. Žalovaná strana neuvedla žádný důvod, který by dokládal, že požadované informace nemá k dispozici, s výjimkou prostého sdělení (výhrady žadatele jsou nepřípadné). Žalobce se i nadále domnívá, že žalovaná strana se nedostatečným způsobem vypořádala s argumenty žalobce z odvolání ze dne 1. března 2017. Předně žalobce i nadále trvá na tom, že způsob vyškrtnutí advokátů ze seznamu advokátů je prováděn vždy v souladu s ust. § 7b odst. 3 zákona č. 85/1996 Sb., o advokacii (dále jen „AdvZ“), a to popisuje způsob vyškrtnutí údajů ze seznamu advokátů jako formu záznamu. Tedy tak, že při vyškrtnutí zůstává údaj čitelný, ale je pouze zneplatněn – je tedy k němu přiřazena hodnota jiná hodnota než aktivní.
-2. Žalobce i nadále trvá na závěru, že mu požadovaná informace nebyla poskytnuta, neboť trval na přímém poskytnutí seznamu v předem definované podobě, které odůvodnil. Žalovaná strana naopak nabídla odkaz na poskytnutou informaci, tedy svůj seznam, který však neodpovídal z hlediska své struktury požadované informaci. Žalovaná strana proto požadovanou informaci neposkytla.
-3. Žalobce i nadále trvá na závěru, že s poskytnutím osobních údajů souhlasily osoby uvedené v seznamu v okamžiku, kdy se staly advokáty či advokátními koncipienty. Žalobce nesouhlasí s tím, že jejich vyškrtnutím byl takový souhlas zrušen a považuje proto rozhodnutí žalované za nezákonné. Žálobce své tvrzení, že v okamžiku, kdy byly výše uvedené osoby se seznamu advokátů nebo advokátních koncipientů vyškrtnuty se na ně zákon o advokacii přestal vztahovat.
+Žalovanou je tedy třeba považovat za veřejnou instituci dle § 2 odst. 1 InfZ a tedy povinný subjekt dle stejného zákona. Dle rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47 „Povaha žalované [jakožto obchodní společnosti ovládané obcí] s sebou nese povinnost poskytovat informace v režimu informačního zákona, ať již je žádost o informace podána podle informačního zákona nebo jiného právního předpisu, který proces poskytování informací samostatně neupravuje (srov. však § 2 odst. 3 informačního zákona).“ Žalovaná tedy po té, co usoudila, že se na ni nevztahuje § 51 odst. 3 písm. c) zákona o HMP (byť s tím žalobce nesouhlasí), měla postupovat dle InfZ a žalobci informaci stejně poskytnout.
+
+Protože žalovaná žalobci informace neposkytla, ačkoliv měla, postupoval žalobce v souladu s InfZ a podal proti rozhodnutí odvolání. Žalobce i nadále trvá na závěru, že požadované informace měly být žadateli poskytnuty ve smyslu InfZ, neboť žalovaná strana jako povinný subjekt neuplatnila žádný z důvodů pro odmítnutí žádosti ve smyslu § 6-11 InfZ.
 
 ### Návrh rozsudku
 
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Rozhodnutí povinného subjektu ze dne 12. 4. 2016 se zrušuje a povinnému subjektu se nařizuje poskytnout požadované informace.
+1. Povinnému subjektu se nařizuje poskytnout požadované informace. Vyjádření povinného subjektu ze dne 18. července 2018, které není rozhodnutím z formální stránky, nicméně z hlediska materiálního jeho roli plní, se tímto zrušuje.
 2. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám zástupce žalobce.
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
@@ -63,5 +63,5 @@ Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 ---
 signature:
   - Adam Zábranský
-abbr:       jakub
+abbr:       adam
 ...
