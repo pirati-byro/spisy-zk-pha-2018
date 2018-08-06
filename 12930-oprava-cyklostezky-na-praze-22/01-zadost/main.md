@@ -24,9 +24,9 @@ Vážení,
 
 žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí informací, které souvisejí s obnovou cesty pro pěší Hájek–Podkova, kterou realizovala městská část Praha 22. Žádám konkrétně o poskytnutí následujících informací:
 
-1. Na základě čeho získala zakázku na obnovu cesty pro pěší společnost Archdozor s.r.o.
+1. Na základě čeho získala zakázku na obnovu cesty pro pěší společnost Archdozor s.r.o.?
 2. Jaké reference doložila společnost Archdozor s.r.o doložit k plnění této zakázky?
-3. Zda-li městská část Praha 22 si ověřila historii společnosti a skutečnost kde společnost Archdozor s.r.o. sídlí a pokud ano, kdo je odpovědnou osobou, která toto ověření provedla.
+3. Zda-li městská část Praha 22 si ověřila historii společnosti a skutečnost kde společnost Archdozor s.r.o. sídlí a pokud ano, kdo je odpovědnou osobou, která toto ověření provedla?
 4. Celý časový harmonogram od vzniku projektu až po podepsání dodatku ke smlouvě.
 5. Název subjektu, který se má starat o přilehlou zeleň v blízkosti cesty pro pěší.
 
