@@ -26,7 +26,7 @@ Vážení,
 
 1. Veškerou dokumentaci pro stavbu chodníku Hájek-Podkova, včetně veškerých faktur
 
-2. Kolik dřevin a porostů bylo vykáceno a odvezeno (číslo a typy dřevin/porostů). 
+2. Kolik dřevin a porostů bylo vykáceno a odvezeno (počet a typy dřevin/porostů). 
 
 3. Veškerou dokumentaci jak bylo s vytěženým odpadem naloženo (faktura ze skládky, potvrzení o zlikvidování odpadu atp.)
 
