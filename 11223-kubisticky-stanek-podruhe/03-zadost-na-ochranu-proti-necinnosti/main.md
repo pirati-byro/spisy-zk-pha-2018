@@ -30,6 +30,8 @@ dne 23. května 2018 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném p
 
 3. Z jakého důvodu nebylo možné provést výpověď ve lhůtě tří měsíců v souladu s ust. čl. III. odst. 3 Smlouvy o nájmu části pozemku, která byla uzavřena mezi Městskou částí Praha 1 a Ladislavem Kůlou, Zaorálkova 563, Roztoky u Prahy dne 17. prosince 2003? 
 
+\newpage
+
 Konstatuji, že jsem v zákonné lhůtě, kterou předvídá InfZ, neobdržel odpověď. Proto jsem dne 12. června 2018 v souladu s ust. § 16a odst. 1 písm. b) InfZ podal stížnost. Navrhl jsem, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil. K vyřízení stížnosti ve smyslu výše zmíněných ustanovení InfZ v zákonné lhůtě nedošlo, a proto žádám, aby nadřízený správní orgán učinil v souladu s § 80 zákona č. 500/2004 Sb., správního řádu, opatření proti nečinnosti.
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu viktor.mahrik@pirati.cz.
