@@ -14,8 +14,8 @@ your:
       -     Krajské ředitelství Policie hl. m. Prahy
       -     odbor hospodářské kriminality
    address:
-      -     Strojnická 27, pošt.schr. 62/KPV
-      -     170 89 Praha 7
+      -     Kongresová 1666/2
+      -     140 21  Praha 4
 sendby:     mail
 style:      letter
 ---
