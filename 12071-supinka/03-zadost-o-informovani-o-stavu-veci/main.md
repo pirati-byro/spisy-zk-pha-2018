@@ -22,7 +22,7 @@ style:      letter
 
 Vážení,
 
-v souvislosti s přípisem Č. j. PPR-19483-1/ČJ-2018-990340, který jsem od Vás obdržel dne 3. července 2017 Vás tímto žádám o zaslání informací v uvedeném případu. Konstatuji, že jsem v trestním oznámení, podaném dne 21. června 2018 a adresovaném Policejnímu prezidiu ČR, žádal ve smyslu § 158 odst. 2 zákona č. 141/1961, trestního řádu o vyrozumění o učiněných opatřeních. Žádám být informován od Vás vzhledem k tomu, že byl při vyšetřování případ přípisem č. j. PPR-19483-1/ČJ-2018-990340 postoupen odboru hospodářské kriminality Krajského ředitelství policie hl. m. Prahy
+v souvislosti s přípisem Č. j. PPR-19483-1/ČJ-2018-990340, který jsem od Vás obdržel dne 3. července 2017 Vás tímto žádám o zaslání informací v uvedeném případu. Konstatuji, že jsem v trestním oznámení, podaném dne 21. června 2018 a adresovaném Policejnímu prezidiu ČR, žádal ve smyslu § 158 odst. 2 zákona č. 141/1961, trestního řádu o vyrozumění o učiněných opatřeních. Žádám být informován od Vás vzhledem k tomu, že byl při vyšetřování případ přípisem č. j. PPR-19483-1/ČJ-2018-990340 postoupen odboru hospodářské kriminality Krajského ředitelství policie hl. m. Prahy.
 
 S pozdravem
 
