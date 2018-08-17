@@ -30,7 +30,9 @@ Vážení,
 
 3. Veškerou dokumentaci jak bylo s vytěženým odpadem naloženo (faktura ze skládky, potvrzení o zlikvidování odpadu atp.)
 
-Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné (nikoliv poštou), a to na e-mailovou adresu ondrej.kallasch@pirati.cz nebo datovou schránkou. Odpověď na tuto žádost můžete poslat i v rámci odpovědi na předchozí žádost sp. zn. Zk Pha #12930. Pokud již některé z informací, které zde žádám byly nebo budou poskytnuty v rámci odpovědi na předchozí žádosti o informace k této zakázce, nemusí být na tuto žádost poskytnuty. 
+Žádám o poskytnutí informací v **elektronické podobě**, kdykoliv je to možné (nikoliv poštou), a to na e-mailovou adresu ondrej.kallasch@pirati.cz nebo datovou schránkou. Žádám o přímé poskytnutí informace, nikoliv odkázání na již zveřejněnou informaci či nabídku na schůzku, jednání či jiné podmíněné poskytnutí informace nebo její části. 
+
+Odpověď na tuto žádost můžete poslat i v rámci odpovědi na předchozí žádost sp. zn. Zk Pha #12930. Pokud již některé z informací, které zde žádám byly nebo budou poskytnuty v rámci odpovědi na předchozí žádosti o informace k této zakázce, nemusí být na tuto žádost poskytnuty. 
 
 S pozdravem
 
