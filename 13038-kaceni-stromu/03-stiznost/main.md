@@ -34,6 +34,8 @@ Konstatuji, že povinný subjekt ve svém přípisu č. j. P22 7521/2018 ORS VED
 
 Navrhuji, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. b) přístup povinného subjektu přezkoumal a následně mu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
+\newpage
+
 K výše uvedenému dodávám, že povinný subjekt je v souladu s ust. § 4 odst. 2 InfZ povinnen informaci poskytnout způsobem podle obsahu žádosti. Vzhledem k tomu, že jsem o poskytnutí žádosti žádal v elektronické podobě, je-li to možné, považuji za postup povinného subjektu, který žádá poskytnout informace prostřednictvím fyzické kopie za odporující tomuto ustanovení zákona. Rovněž skutečnost, že by o poskytnutí informace zdarma mělo hlasovat zastupitelstvo městské části Praha 22, považuji za odporující ust. § 51 odst. 2 písm. c) zákona č. 121/2000 Sb., o hlavním městě Praze a dále § 87 odst. 3 téhož zákona, a dále Stanovisku odboru veřejné správy, dozoru a kontroly Ministerstva vnitra č. 1/2016.
 
 S pozdravem
