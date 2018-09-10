@@ -22,7 +22,7 @@ style:      letter
 
 Vážení,
 
-žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací, které se týkají výstavby tzv. horácké stezky:
+žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, jako fyzická osoba – zastupitel hl. m. Prahy a městské části Praha 22 za Českou pirátskou stranu – o poskytnutí následujících informací, které se týkají výstavby tzv. horácké stezky:
 
 1. Jaké orgány kdy na MČ Praha 22 se zabývaly realizací tzv. Horácké stezky – a k jakým dospěly výsledkům? Zašlete prosím dokumenty, ve kterých je uvedeno vyhodnocení tohoto projektu. 
 
