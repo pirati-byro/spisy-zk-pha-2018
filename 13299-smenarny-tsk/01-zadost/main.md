@@ -24,7 +24,7 @@ Vážení,
 
 žádám tímto jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s ust. § 51 odst. 2 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
 
-Texty všech smluv, Technická správa komunikací a.s. uzavřela s provozovateli směnáren nebo s jejich zástupci a na základě nichž Technická správa komunikací a.s. pronajímá těmto směnárnám nebo jejich zástupcům prostory, které jsou v jeho vlastnictví. Poskytněte prosím pouze aktuálně platné smlouvy se směnárnami nebo jejich zástupci.
+Texty všech smluv, které Technická správa komunikací a.s. uzavřela na pronájem vlastních nebytových prostor, kde je aktuálně provozována směnárna. Poskytněte prosím pouze aktuálně platné smlouvy.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o doručování do datové schránky xwfwgha nebo na e-mail adam.zabransky@praha.eu.
 
