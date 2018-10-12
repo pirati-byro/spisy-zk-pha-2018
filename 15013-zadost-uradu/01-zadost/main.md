@@ -10,8 +10,8 @@ our:
    sign:    Zk Pha #15013
 your:
    role:    
-   name:    Magistrát hlavního města Prahy
-      -     Odbor informatiky
+   name:    Magistrát hlavního města Prahy, odbor informatiky
+      -     
    address:
       -     Jugnmannova 35/29
       -     Praha 1
