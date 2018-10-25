@@ -21,9 +21,9 @@ style:      letter
 
 Vážení,
 
-žádám tímto, aby Státní zástupce přezkoumal postup Krajského ředitelství policie hl. m. Prahy ve věci případu č. j. PPR-19483-1. Jednalo se o případ nákupu nábytku městskou částí Praha 1, kde byla společnosti SPAZIO uhrazena městskou částí suma ve výši 28 349 280 Kč, ačkoliv městská část obdržela a eviduje faktury v úhrnné sumě pouze 6 milionů Kč. 
+žádám tímto, aby Státní zástupce přezkoumal postup Krajského ředitelství policie hl. m. Prahy ve věci případu č. j. PPR-19483-1. Jednalo se o případ nákupu nábytku městskou částí Praha 1, kde byla společnosti SPAZIO na základě dodaných faktur uhrazena městskou částí suma ve výši 28 349 280 Kč, ačkoliv městská část měla dle uzavřené smlouvy proplatit faktury v úhrnné výši maximálně 6 milionů Kč. 
 
-Krajské ředitelství police hl. m. Prahy mé podání odložilo. Jsem toho názoru, že tak učinilo v rozporu s § 157 odst. 2 písm. a) trestního řádu, tedy že si nevyžádalo od městské části Praha 1 spisovou dokumentaci k uvedenému případu a následně dospělo k závěru, sdělenému přípisem Č. j. KRPA-201209-23/TČ-2018-000095-PRI, že nebyly zjištěny skutečnosti důvodně nasvědčující tomu, že byl spáchán trestný čin.
+Krajské ředitelství police hl. m. Prahy mé podání odložilo, jak vyplývá z přípisu Č. j. KRPA-201209-23/TČ-2018-000095-PRI, který jsem obdržel. Svůj závěr Krajské ředitelství nijak neodůvodnilo, a proto jsem nucen se domnívat, že dostatečně neprověřilo všechny okolnosti tohoto nezákonného obchodu městské části s obchodní společností vlastněnou členkou koaliční strany na radnici.
 
 S pozdravem
 
