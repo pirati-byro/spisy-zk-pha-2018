@@ -20,9 +20,9 @@ style:      letter
 reminder:   true
 ---
 
-Vážení členové místopistné komise městské části Prahy 8,
+Vážení,
 
-obracím se na Vás s žádostí, která se týká názvu jednoho z náměstí na Vaší městské části. Elsnicovo náměstí, které se nachází v blízkosti Vaší radnice, je pojmenováno po Karlu Elznicovi, komunistickém funkcionáři, který byl popraven nacisty v roce 1941. Bohužel však při procesu pojmenovávání došlo k chybnému zápisu jména pana Elznice a náměstí se dnes jmenuje **Elsnicovo** namísto **Elznicovo**. Jsem si samozřejmě vědom, že přejmenování veřejného prostranství s sebou přináší řadu nepříjemností (výměny map, výměny občanských průkazů osob, které v lokalitě žijí), přesto bych Vás chtěl tmto požádat o zamyšlení nad možností dostát cti vůči oběti nacistického teroru, kterým byl pan Karel Elnznic. 
+obracím se na Vás s žádostí, která se týká názvu jednoho z náměstí na Vaší městské části. Elsnicovo náměstí, které se nachází v blízkosti Vaší radnice, je pojmenováno po Karlu Elznicovi, který byl popraven nacisty v roce 1941. Bohužel však při procesu pojmenovávání došlo k chybnému zápisu jména pana Elznice a náměstí se dnes jmenuje **Elsnicovo** namísto **Elznicovo**. Jsem si samozřejmě vědom, že přejmenování veřejného prostranství s sebou přináší řadu nepříjemností (výměny map, výměny občanských průkazů osob, které v lokalitě žijí), přesto bych Vás chtěl tmto požádat o zamyšlení nad možností dostát cti vůči oběti nacistického teroru, kterým byl pan Karel Elnznic. 
 
 S pozdravem
 
