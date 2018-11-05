@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-žádám Vás tímto, abyste přestali zastupitelskému klubu Pirátů v ZHMP zasílat tištěný newsletter IVK. Pevně doufám, že naleznete mezi členy jiných politických stran vhodnější adresáty než mezi Piráty, kteří již dali najevo jednou, že o něj zájem nemají. V případě, že nám bude zasílán i nadále, bude bez přečtení recyklován. Vámi potištěný papír tak získá lepší a vhodnější využití, třeba v podobě materiálů o závažnosti klimatických změn nebo historických publikací, týkajících se ekonomických přešlapů 90. let minulého století.
+žádám Vás tímto, abyste přestali zastupitelskému klubu Pirátů v ZHMP zasílat tištěný newsletter IVK. Pevně doufám, že naleznete mezi členy jiných politických stran vhodnější adresáty než mezi Piráty, kteří již dali najevo jednou, že o něj zájem nemají. V případě, že nám bude zasílán i nadále, bude bez přečtení recyklován. Vámi potištěný papír tak získá lepší a vhodnější využití, třeba v podobě materiálů o závažnosti změny klimatu nebo historických publikací týkajících se ekonomických přešlapů 90. let minulého století.
 
 ---
 signature:
