@@ -1,5 +1,5 @@
 ---
-title:      Žádost o zastavení zasílání vašeho newsletteru členům zastupitelského klubu Pirátů v ZHMP
+title:      Žádost o zastavení zasílání Vašeho newsletteru členům zastupitelského klubu Pirátů v ZHMP
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
