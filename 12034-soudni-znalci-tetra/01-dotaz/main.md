@@ -1,10 +1,10 @@
 ---
-title:      Žádost o informace – výběr soudních znalců
+title:      Žádost o informace – Výběr soudních znalců
 author:
-   name:    Ivan Mikoláš
-   phone:   +420 603 454 341
+   name:    Ondřej Kallasch
+   phone:   +420 720 474 822
    ds:      
-   mail:    ivan.mikolas@pirati.cz
+   mail:    ondrej.kallasch@pirati.cz
 our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#12039
@@ -39,9 +39,9 @@ S pozdravem
 
 ---
 signature:
-  - Ivan Mikoláš
+  - Ondřej Kallasch
   - zastupitel hl. m. Prahy za klub Pirátů
-  - nar. 8. 4. 1965
-  - bytem Pod Rapidem 450/6, Praha 10 Strašnice
-abbr:       ivan
+  - nar. 12. 3. 1991
+  - bytem Pod Markétou 82, Praha 22
+abbr:       ondra
 ...
