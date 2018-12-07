@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-tímto sděluji, že se zastupitelský klub Pirátů shodl, že jeho pracovníkem/sekretářem (dle přípisu MHMP č. j. 1596623/2018) je na základě provedeného výběrového řízení Jakub Zítko.
+tímto sděluji, že se zastupitelský klub Pirátů shodl, že jeho pracovníkem/sekretářem je na základě provedeného výběrového řízení Jakub Zítko.
 
 S pozdravem
 
